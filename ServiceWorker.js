@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MusicalCamera-0.1";
 const contentToCache = [
-    "Build/B11.loader.js",
-    "Build/B11.framework.js",
-    "Build/B11.data",
-    "Build/B11.wasm",
+    "Build/B12.loader.js",
+    "Build/B12.framework.js",
+    "Build/B12.data",
+    "Build/B12.wasm",
     "TemplateData/style.css"
 
 ];
