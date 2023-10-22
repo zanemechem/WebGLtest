@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-MusicalCamera-0.1";
+const cacheName = "ArtCenter MDP-MusicalCamera-11";
 const contentToCache = [
-    "Build/B14.loader.js",
-    "Build/B14.framework.js",
-    "Build/B14.data",
-    "Build/B14.wasm",
+    "Build/B18.loader.js",
+    "Build/B18.framework.js",
+    "Build/B18.data",
+    "Build/B18.wasm",
     "TemplateData/style.css"
 
 ];
